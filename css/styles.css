@@ -119,18 +119,19 @@ left:325px;
 }
 
 
-.gif-robot{
-  left:30px;
-  top:200px;
+.gif-dance{
+
   height: 300px;
   width:200px;
   position: fixed;
+  left:30px;
+  top:auto;
 }
-.corona{
+.breat{
   height: 300px;
   width:200px;
   right:40px;
-  top:100px;
+  top:auto;
   position: fixed;
 }
 .stay-chill{
